@@ -57,20 +57,13 @@ To run the application locally, follow these steps:
     JWT_SECRET=<your-jwt-secret>
     ```
 
-6. **Run the backend server**:
+6. **Run the application**:
+    From the root of the project, run:
     ```bash
-    cd server
-    npm start
+    npm run dev
     ```
 
-7. **Run the frontend**:
-    In a new terminal:
-    ```bash
-    cd client
-    npm start
-    ```
-
-8. **Access the app**:
+7. **Access the app**:
     Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Folder Structure
@@ -102,7 +95,3 @@ Blog-app-MERN/
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-You can modify it further based on specific details of your project.
