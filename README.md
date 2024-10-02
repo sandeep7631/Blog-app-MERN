@@ -2,6 +2,7 @@
 
 This is a full-stack Blog Application built using the MERN stack (MongoDB, Express, React, Node.js). Users can create, edit, delete, and view blog posts. The app also includes user authentication and authorization features.
 
+## Firstly update the database username and password in the .env file
 ## Features
 
 - **User Authentication**: Sign up and log in functionality using JWT (JSON Web Tokens).
